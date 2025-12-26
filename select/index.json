@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Luminous",
+  "base_artist": "鳴瀬しろは(CV.小原好美)、VISUAL ARTS / Key",
+  "createdAt": "2025-12-26T04:41:03.057452Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Luminous",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/01_Luminous_Blur.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Luminous Times (Hold On To Love) - Remasterd",
+      "artist": "U2",
+      "has_synced": false,
+      "path": "select/02_Luminous_Times_(Hold_On_To_Love)_-_Remasterd_U2.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Luminous Times (Hold On to Love)",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/03_Luminous_Times_(Hold_On_to_Love)_U2.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Luminous",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/04_Luminous_Stratovarius.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Luminous (2017)",
+      "artist": "Claris",
+      "has_synced": false,
+      "path": "select/05_Luminous_(2017)_Claris.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Luminous",
+      "artist": "ClariS",
+      "has_synced": false,
+      "path": "select/06_Luminous_ClariS.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Luminous Times (Hold On To Love)",
+      "artist": "U2",
+      "has_synced": false,
+      "path": "select/07_Luminous_Times_(Hold_On_To_Love)_U2.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Luminous (Hold On To Love)",
+      "artist": "U2",
+      "has_synced": false,
+      "path": "select/08_Luminous_(Hold_On_To_Love)_U2.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Luminous feat. Julie Harrington \u0000 Let You In",
+      "artist": "Cafe Del Mar",
+      "has_synced": false,
+      "path": "select/09_Luminous_feat._Julie_Harrington_\u0000_Let_You_In_Cafe_Del_Mar.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Luminous Beings",
+      "artist": "Charlie Griffiths",
+      "has_synced": true,
+      "path": "select/10_Luminous_Beings_Charlie_Griffiths.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Luminous",
+      "artist": "鳴瀬しろは(CV.小原好美) & VISUAL ARTS / Key",
+      "has_synced": false,
+      "path": "select/pl_01_Luminous_鳴瀬しろは(CV.小原好美)_&_VISUAL_ARTS___Key.txt"
+    }
+  ]
+}
